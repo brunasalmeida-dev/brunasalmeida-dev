@@ -39,6 +39,18 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedora, cont
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunasalmeida-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasalmeida-dev&layout=compact&theme=tokyonight)
+
+---
+
 ## 📚 Formação
 
 🎓 **Análise e Desenvolvimento de Sistemas**  
@@ -61,13 +73,6 @@ Atualmente busco uma oportunidade de **estágio em Desenvolvimento de Software**
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunasalmeida-dev&show_icons=true&theme=tokyonight)
-
-## 💻 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasalmeida-dev&layout=compact&theme=tokyonight)
 
 ## 📫 Contato
 
